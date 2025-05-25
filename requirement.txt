@@ -1,0 +1,8 @@
+python
+matplotlib
+seaborn
+opencv
+streamlit
+scikit learn
+joblib
+pandas/ numpy
