@@ -1,6 +1,6 @@
 AI Powered task management system ---> This focused on automating task priority prediction and workload balancing using Machine Learning. The application processes task-related data, performs exploratory data analysis (EDA), applies NLP preprocessing, and builds a classification model to predict task priority. Additionally, it integrates workload balancing using an ML-based approach.
 
-###🚀 Features
+### 🚀 Features
 
 - ✅ Synthetic task dataset generation (similar to Jira/Trello tasks)
 - 🔍 Exploratory Data Analysis (EDA) & cleaning
@@ -11,7 +11,7 @@ AI Powered task management system ---> This focused on automating task priority 
 - 💾 Model saved using `joblib`
 - 🌐 Streamlit app for project interaction
 
--### 🛠 Technologies Used
+### 🛠 Technologies Used
 
 - Python
 - Pandas, NumPy
